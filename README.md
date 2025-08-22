@@ -41,10 +41,11 @@ Notes:
 
 ## 📷 Screenshot
 
-Here's what the app looks like on Android:
+# Here's what the app looks like on Android: 
+# First one is as in this example . See Second one is dlib 68 face landmark you can also build . 
 <p align="center">
-  <img src="s0.jpeg" width="200" style="display:inline-block; margin-right:10px;">
-  <img src="s1.jpeg" width="200" style="display:inline-block; margin-right:10px;">
+  <img src="s0.jpg" width="200" style="display:inline-block; margin-right:10px;">
+  <img src="s1.jpg" width="200" style="display:inline-block; margin-right:10px;">
   
 </p>
 
