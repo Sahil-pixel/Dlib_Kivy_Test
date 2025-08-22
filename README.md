@@ -39,6 +39,15 @@ Notes:
 - Face detection done on grayscale for speed
 - Bounding boxes drawn on Kivy widget canvas
 
+## 📷 Screenshot
+
+Here's what the app looks like on Android:
+<p align="center">
+  <img src="s0.jpeg" width="200" style="display:inline-block; margin-right:10px;">
+  <img src="s1.jpeg" width="200" style="display:inline-block; margin-right:10px;">
+  
+</p>
+
 License:
 MIT License
 
